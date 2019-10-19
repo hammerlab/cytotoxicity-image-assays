@@ -1,0 +1,135 @@
+,exp_grp,exp_has_peptide,exp_sta_conc,exp_cell_count,exp_rep,value,label,condition
+0,20190719-co-culture,No Peptide,0.000uM,00.00mT,r1,1230.4076750578947,Untreated,Untreated
+1,20190719-co-culture,No Peptide,0.000uM,00.00mT,r2,1258.216033668555,Untreated,Untreated
+2,20190719-co-culture,No Peptide,0.000uM,00.00mT,r3,719.940219044785,Untreated,Untreated
+3,20190719-co-culture,No Peptide,0.000uM,02.50mT,r1,1155.8882713339567,No Peptide,02.5mT cells
+4,20190719-co-culture,No Peptide,0.000uM,02.50mT,r2,1331.107552204,No Peptide,02.5mT cells
+5,20190719-co-culture,No Peptide,0.000uM,02.50mT,r3,1024.9840342756322,No Peptide,02.5mT cells
+6,20190719-co-culture,No Peptide,0.000uM,05.00mT,r1,825.0627639704683,No Peptide,05.0mT cells
+7,20190719-co-culture,No Peptide,0.000uM,05.00mT,r2,1367.3789000315398,No Peptide,05.0mT cells
+8,20190719-co-culture,No Peptide,0.000uM,05.00mT,r3,1486.8124810350766,No Peptide,05.0mT cells
+9,20190719-co-culture,No Peptide,0.000uM,10.00mT,r1,2268.966523074617,No Peptide,10.0mT cells
+10,20190719-co-culture,No Peptide,0.000uM,10.00mT,r2,415.3073387927854,No Peptide,10.0mT cells
+11,20190719-co-culture,No Peptide,0.000uM,10.00mT,r3,2508.2576871752863,No Peptide,10.0mT cells
+12,20190719-co-culture,No Peptide,0.000uM,20.00mT,r1,1293.0611195975337,No Peptide,20.0mT cells
+13,20190719-co-culture,No Peptide,0.000uM,20.00mT,r2,1203.033968859645,No Peptide,20.0mT cells
+14,20190719-co-culture,No Peptide,0.000uM,20.00mT,r3,1021.9553983713487,No Peptide,20.0mT cells
+15,20190719-co-culture,No Peptide,4.000uM,00.00mT,r1,1974.1284453079386,STA Reference,STA Reference
+16,20190719-co-culture,No Peptide,4.000uM,00.00mT,r2,2527.9675777033135,STA Reference,STA Reference
+17,20190719-co-culture,No Peptide,4.000uM,00.00mT,r3,3440.613733848287,STA Reference,STA Reference
+18,20190719-co-culture,w/ Peptide,0.000uM,02.50mT,r1,2546.0725124573846,w/ Peptide,02.5mT cells
+19,20190719-co-culture,w/ Peptide,0.000uM,02.50mT,r2,3462.082046898786,w/ Peptide,02.5mT cells
+20,20190719-co-culture,w/ Peptide,0.000uM,02.50mT,r3,4654.965965165825,w/ Peptide,02.5mT cells
+21,20190719-co-culture,w/ Peptide,0.000uM,05.00mT,r1,2413.578243734814,w/ Peptide,05.0mT cells
+22,20190719-co-culture,w/ Peptide,0.000uM,05.00mT,r2,2943.757355486707,w/ Peptide,05.0mT cells
+23,20190719-co-culture,w/ Peptide,0.000uM,05.00mT,r3,3355.4777011645724,w/ Peptide,05.0mT cells
+24,20190719-co-culture,w/ Peptide,0.000uM,05.00mT,r4,2784.0186125095815,w/ Peptide,05.0mT cells
+25,20190719-co-culture,w/ Peptide,0.000uM,10.00mT,r1,4386.98393375262,w/ Peptide,10.0mT cells
+26,20190719-co-culture,w/ Peptide,0.000uM,10.00mT,r2,3279.9486617292655,w/ Peptide,10.0mT cells
+27,20190719-co-culture,w/ Peptide,0.000uM,10.00mT,r3,4965.193392021553,w/ Peptide,10.0mT cells
+28,20190719-co-culture,w/ Peptide,0.000uM,10.00mT,r4,3183.168715004994,w/ Peptide,10.0mT cells
+29,20190719-co-culture,w/ Peptide,0.000uM,20.00mT,r1,976.9701999572151,w/ Peptide,20.0mT cells
+30,20190719-co-culture,w/ Peptide,0.000uM,20.00mT,r2,2720.9560689620007,w/ Peptide,20.0mT cells
+31,20190719-co-culture,w/ Peptide,0.000uM,20.00mT,r3,2715.886042477534,w/ Peptide,20.0mT cells
+32,20190719-co-culture,w/ Peptide,0.000uM,20.00mT,r4,2306.724027793814,w/ Peptide,20.0mT cells
+33,20190822-co-culture,No Peptide,0.000uM,00.00mT,r1,1483.1205906945397,Untreated,Untreated
+34,20190822-co-culture,No Peptide,0.000uM,00.00mT,r2,1012.6989734317453,Untreated,Untreated
+35,20190822-co-culture,No Peptide,0.000uM,00.00mT,r3,733.8965299438802,Untreated,Untreated
+36,20190822-co-culture,No Peptide,0.000uM,00.25mT,r1,2582.075126546607,No Peptide,00.2mT cells
+37,20190822-co-culture,No Peptide,0.000uM,00.25mT,r2,3125.114214464026,No Peptide,00.2mT cells
+38,20190822-co-culture,No Peptide,0.000uM,00.25mT,r3,2688.9813226958468,No Peptide,00.2mT cells
+39,20190822-co-culture,No Peptide,0.000uM,00.50mT,r1,1034.4795452456747,No Peptide,00.5mT cells
+40,20190822-co-culture,No Peptide,0.000uM,00.50mT,r2,788.3755638412632,No Peptide,00.5mT cells
+41,20190822-co-culture,No Peptide,0.000uM,00.50mT,r3,1313.92083386658,No Peptide,00.5mT cells
+42,20190822-co-culture,No Peptide,0.000uM,01.00mT,r1,1557.2914431193794,No Peptide,01.0mT cells
+43,20190822-co-culture,No Peptide,0.000uM,01.00mT,r2,1783.3034792421158,No Peptide,01.0mT cells
+44,20190822-co-culture,No Peptide,0.000uM,02.00mT,r1,1158.9851529574332,No Peptide,02.0mT cells
+45,20190822-co-culture,No Peptide,0.000uM,02.00mT,r2,3242.45234946284,No Peptide,02.0mT cells
+46,20190822-co-culture,No Peptide,0.000uM,02.00mT,r3,1735.1925512556636,No Peptide,02.0mT cells
+47,20190822-co-culture,No Peptide,0.000uM,04.00mT,r1,1604.9249610878594,No Peptide,04.0mT cells
+48,20190822-co-culture,No Peptide,0.000uM,04.00mT,r2,1671.6304095403011,No Peptide,04.0mT cells
+49,20190822-co-culture,No Peptide,0.000uM,04.00mT,r3,2462.2201241464372,No Peptide,04.0mT cells
+50,20190822-co-culture,No Peptide,4.000uM,00.00mT,r1,2105.6652067844266,STA Reference,STA Reference
+51,20190822-co-culture,No Peptide,4.000uM,00.00mT,r2,2967.094273344943,STA Reference,STA Reference
+52,20190822-co-culture,No Peptide,4.000uM,00.00mT,r3,5389.713250700906,STA Reference,STA Reference
+53,20190822-co-culture,w/ Peptide,0.000uM,00.25mT,r1,2205.2115025261887,w/ Peptide,00.2mT cells
+54,20190822-co-culture,w/ Peptide,0.000uM,00.25mT,r2,2753.01757320161,w/ Peptide,00.2mT cells
+55,20190822-co-culture,w/ Peptide,0.000uM,00.25mT,r3,2110.6788382135587,w/ Peptide,00.2mT cells
+56,20190822-co-culture,w/ Peptide,0.000uM,00.50mT,r1,4100.5309332452325,w/ Peptide,00.5mT cells
+57,20190822-co-culture,w/ Peptide,0.000uM,00.50mT,r2,2955.221003309125,w/ Peptide,00.5mT cells
+58,20190822-co-culture,w/ Peptide,0.000uM,00.50mT,r3,2947.864871284151,w/ Peptide,00.5mT cells
+59,20190822-co-culture,w/ Peptide,0.000uM,01.00mT,r1,1369.0926716515312,w/ Peptide,01.0mT cells
+60,20190822-co-culture,w/ Peptide,0.000uM,01.00mT,r2,1045.7566140340098,w/ Peptide,01.0mT cells
+61,20190822-co-culture,w/ Peptide,0.000uM,01.00mT,r3,2153.221637280654,w/ Peptide,01.0mT cells
+62,20190822-co-culture,w/ Peptide,0.000uM,02.00mT,r1,3038.3369556716666,w/ Peptide,02.0mT cells
+63,20190822-co-culture,w/ Peptide,0.000uM,02.00mT,r2,3235.0258447482697,w/ Peptide,02.0mT cells
+64,20190822-co-culture,w/ Peptide,0.000uM,02.00mT,r3,4374.701467224852,w/ Peptide,02.0mT cells
+65,20190822-co-culture,w/ Peptide,0.000uM,04.00mT,r1,2200.390500836446,w/ Peptide,04.0mT cells
+66,20190822-co-culture,w/ Peptide,0.000uM,04.00mT,r2,2486.8674875938345,w/ Peptide,04.0mT cells
+67,20190822-co-culture,w/ Peptide,0.000uM,04.00mT,r3,3077.42629263786,w/ Peptide,04.0mT cells
+68,20190830-co-culture,No Peptide,0.000uM,00.00mT,r1,2574.1035473759894,Untreated,Untreated
+69,20190830-co-culture,No Peptide,0.000uM,00.00mT,r2,2979.0432148303403,Untreated,Untreated
+70,20190830-co-culture,No Peptide,0.000uM,00.00mT,r3,3038.6879657825143,Untreated,Untreated
+71,20190830-co-culture,No Peptide,0.000uM,00.50mT,r1,4681.348877653869,No Peptide,00.5mT cells
+72,20190830-co-culture,No Peptide,0.000uM,00.50mT,r2,6412.251817171212,No Peptide,00.5mT cells
+73,20190830-co-culture,No Peptide,0.000uM,00.50mT,r3,4337.9213870029225,No Peptide,00.5mT cells
+74,20190830-co-culture,No Peptide,0.000uM,01.00mT,r1,4002.4423281165555,No Peptide,01.0mT cells
+75,20190830-co-culture,No Peptide,0.000uM,01.00mT,r2,2997.922478587378,No Peptide,01.0mT cells
+76,20190830-co-culture,No Peptide,0.000uM,01.00mT,r3,2666.957603580675,No Peptide,01.0mT cells
+77,20190830-co-culture,No Peptide,0.000uM,02.00mT,r1,2750.8593326623873,No Peptide,02.0mT cells
+78,20190830-co-culture,No Peptide,0.000uM,02.00mT,r2,5077.1248248208985,No Peptide,02.0mT cells
+79,20190830-co-culture,No Peptide,0.000uM,02.00mT,r3,3067.789690904842,No Peptide,02.0mT cells
+80,20190830-co-culture,No Peptide,0.000uM,04.00mT,r1,2785.491400024182,No Peptide,04.0mT cells
+81,20190830-co-culture,No Peptide,0.000uM,04.00mT,r2,2918.737448873724,No Peptide,04.0mT cells
+82,20190830-co-culture,No Peptide,0.000uM,04.00mT,r3,2499.780333977907,No Peptide,04.0mT cells
+83,20190830-co-culture,No Peptide,4.000uM,00.00mT,r1,5086.71568801421,STA Reference,STA Reference
+84,20190830-co-culture,No Peptide,4.000uM,00.00mT,r2,3117.268683761284,STA Reference,STA Reference
+85,20190830-co-culture,No Peptide,4.000uM,00.00mT,r3,6013.959711353554,STA Reference,STA Reference
+86,20190830-co-culture,w/ Peptide,0.000uM,00.50mT,r1,3936.1144284132065,w/ Peptide,00.5mT cells
+87,20190830-co-culture,w/ Peptide,0.000uM,00.50mT,r2,8586.339034617367,w/ Peptide,00.5mT cells
+88,20190830-co-culture,w/ Peptide,0.000uM,00.50mT,r3,5239.56697493992,w/ Peptide,00.5mT cells
+89,20190830-co-culture,w/ Peptide,0.000uM,01.00mT,r1,6350.944823099081,w/ Peptide,01.0mT cells
+90,20190830-co-culture,w/ Peptide,0.000uM,01.00mT,r2,7841.862770100477,w/ Peptide,01.0mT cells
+91,20190830-co-culture,w/ Peptide,0.000uM,01.00mT,r3,8904.682741483972,w/ Peptide,01.0mT cells
+92,20190830-co-culture,w/ Peptide,0.000uM,02.00mT,r1,9467.499595943118,w/ Peptide,02.0mT cells
+93,20190830-co-culture,w/ Peptide,0.000uM,02.00mT,r2,11757.193232102865,w/ Peptide,02.0mT cells
+94,20190830-co-culture,w/ Peptide,0.000uM,02.00mT,r3,4645.174201414855,w/ Peptide,02.0mT cells
+95,20190830-co-culture,w/ Peptide,0.000uM,04.00mT,r1,13000.289485137302,w/ Peptide,04.0mT cells
+96,20190830-co-culture,w/ Peptide,0.000uM,04.00mT,r2,10879.657113791203,w/ Peptide,04.0mT cells
+97,20190830-co-culture,w/ Peptide,0.000uM,04.00mT,r3,9609.77773088789,w/ Peptide,04.0mT cells
+98,20191003-co-culture,No Peptide,0.000uM,00.00mT,r1,5529.706939281105,Untreated,Untreated
+99,20191003-co-culture,No Peptide,0.000uM,00.00mT,r2,4242.935237405626,Untreated,Untreated
+100,20191003-co-culture,No Peptide,0.000uM,00.00mT,r3,4447.201297566046,Untreated,Untreated
+101,20191003-co-culture,No Peptide,0.000uM,00.25mT,r1,5933.466352639171,No Peptide,00.2mT cells
+102,20191003-co-culture,No Peptide,0.000uM,00.25mT,r2,5342.139969345232,No Peptide,00.2mT cells
+103,20191003-co-culture,No Peptide,0.000uM,00.25mT,r3,6469.07810832851,No Peptide,00.2mT cells
+104,20191003-co-culture,No Peptide,0.000uM,00.50mT,r1,4973.57979760536,No Peptide,00.5mT cells
+105,20191003-co-culture,No Peptide,0.000uM,00.50mT,r2,5914.56780548589,No Peptide,00.5mT cells
+106,20191003-co-culture,No Peptide,0.000uM,00.50mT,r3,5967.7130098484995,No Peptide,00.5mT cells
+107,20191003-co-culture,No Peptide,0.000uM,01.00mT,r1,6884.144309245078,No Peptide,01.0mT cells
+108,20191003-co-culture,No Peptide,0.000uM,01.00mT,r2,7553.360216414308,No Peptide,01.0mT cells
+109,20191003-co-culture,No Peptide,0.000uM,01.00mT,r3,7862.119833208521,No Peptide,01.0mT cells
+110,20191003-co-culture,No Peptide,0.000uM,02.00mT,r1,5614.346123667607,No Peptide,02.0mT cells
+111,20191003-co-culture,No Peptide,0.000uM,02.00mT,r2,5870.601996316271,No Peptide,02.0mT cells
+112,20191003-co-culture,No Peptide,0.000uM,02.00mT,r3,6291.187236308462,No Peptide,02.0mT cells
+113,20191003-co-culture,No Peptide,0.000uM,04.00mT,r1,5470.281378416416,No Peptide,04.0mT cells
+114,20191003-co-culture,No Peptide,0.000uM,04.00mT,r2,5692.120790148621,No Peptide,04.0mT cells
+115,20191003-co-culture,No Peptide,0.000uM,04.00mT,r3,5730.592966046302,No Peptide,04.0mT cells
+116,20191003-co-culture,No Peptide,4.000uM,00.00mT,r1,6497.5341904695,STA Reference,STA Reference
+117,20191003-co-culture,No Peptide,4.000uM,00.00mT,r2,6064.914186386823,STA Reference,STA Reference
+118,20191003-co-culture,No Peptide,4.000uM,00.00mT,r3,7483.553852906831,STA Reference,STA Reference
+119,20191003-co-culture,w/ Peptide,0.000uM,00.25mT,r1,8706.641079963245,w/ Peptide,00.2mT cells
+120,20191003-co-culture,w/ Peptide,0.000uM,00.25mT,r2,8053.229120659716,w/ Peptide,00.2mT cells
+121,20191003-co-culture,w/ Peptide,0.000uM,00.25mT,r3,7694.083336811329,w/ Peptide,00.2mT cells
+122,20191003-co-culture,w/ Peptide,0.000uM,00.50mT,r1,7947.648222048709,w/ Peptide,00.5mT cells
+123,20191003-co-culture,w/ Peptide,0.000uM,00.50mT,r2,7713.344961327437,w/ Peptide,00.5mT cells
+124,20191003-co-culture,w/ Peptide,0.000uM,00.50mT,r3,8542.858104986894,w/ Peptide,00.5mT cells
+125,20191003-co-culture,w/ Peptide,0.000uM,01.00mT,r1,12600.475069885217,w/ Peptide,01.0mT cells
+126,20191003-co-culture,w/ Peptide,0.000uM,01.00mT,r2,10741.088493969059,w/ Peptide,01.0mT cells
+127,20191003-co-culture,w/ Peptide,0.000uM,01.00mT,r3,12778.569435417656,w/ Peptide,01.0mT cells
+128,20191003-co-culture,w/ Peptide,0.000uM,02.00mT,r1,8590.861072800832,w/ Peptide,02.0mT cells
+129,20191003-co-culture,w/ Peptide,0.000uM,02.00mT,r2,5823.482329820524,w/ Peptide,02.0mT cells
+130,20191003-co-culture,w/ Peptide,0.000uM,02.00mT,r3,6503.861611587087,w/ Peptide,02.0mT cells
+131,20191003-co-culture,w/ Peptide,0.000uM,04.00mT,r1,7984.151336121122,w/ Peptide,04.0mT cells
+132,20191003-co-culture,w/ Peptide,0.000uM,04.00mT,r2,5394.775915574981,w/ Peptide,04.0mT cells
+133,20191003-co-culture,w/ Peptide,0.000uM,04.00mT,r3,8326.631708841669,w/ Peptide,04.0mT cells

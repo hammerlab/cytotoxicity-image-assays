@@ -1,0 +1,58 @@
+sta_conc,value,rep,method
+0.000uM,2178.510485038896,r1,Cells Within Spheroids (Method 1)
+0.000uM,2146.0733733571683,r1,Cells Within Spheroids (Method 2)
+0.000uM,1920.1578883338332,r1,Spheroids
+0.000uM,2282.9543744231282,r2,Cells Within Spheroids (Method 1)
+0.000uM,2268.136939348478,r2,Cells Within Spheroids (Method 2)
+0.000uM,2060.7131227744712,r2,Spheroids
+0.000uM,2283.1526378401704,r3,Cells Within Spheroids (Method 1)
+0.000uM,2305.8095133958655,r3,Cells Within Spheroids (Method 2)
+0.000uM,2145.2715918647823,r3,Spheroids
+0.000uM,2138.209375060052,r1,Spheroids
+0.000uM,2314.230179481871,r2,Spheroids
+0.000uM,3099.95870924343,r3,Spheroids
+0.125uM,2650.939748393369,r1,Cells Within Spheroids (Method 1)
+0.125uM,2581.284473964399,r1,Cells Within Spheroids (Method 2)
+0.125uM,2334.696339512704,r1,Spheroids
+0.125uM,2632.09245376802,r2,Cells Within Spheroids (Method 1)
+0.125uM,2581.9700783383896,r2,Cells Within Spheroids (Method 2)
+0.125uM,2381.595067603285,r2,Spheroids
+0.125uM,2279.0673039442745,r3,Cells Within Spheroids (Method 1)
+0.125uM,2245.588772158924,r3,Cells Within Spheroids (Method 2)
+0.125uM,2104.9124855537825,r3,Spheroids
+0.250uM,2835.5568863266403,r1,Cells Within Spheroids (Method 1)
+0.250uM,2807.3706994160943,r1,Cells Within Spheroids (Method 2)
+0.250uM,2510.355777440613,r1,Spheroids
+0.250uM,2866.7467087273226,r2,Cells Within Spheroids (Method 1)
+0.250uM,2774.1879016295497,r2,Cells Within Spheroids (Method 2)
+0.250uM,2579.085485713285,r2,Spheroids
+0.250uM,2746.1218460708824,r3,Cells Within Spheroids (Method 1)
+0.250uM,2768.6289475367516,r3,Cells Within Spheroids (Method 2)
+0.250uM,2548.5762636482423,r3,Spheroids
+0.500uM,4528.404715746801,r1,Cells Within Spheroids (Method 1)
+0.500uM,4295.984266088805,r1,Cells Within Spheroids (Method 2)
+0.500uM,3855.274024318557,r1,Spheroids
+0.500uM,3636.6921914995787,r2,Cells Within Spheroids (Method 1)
+0.500uM,3467.664440491185,r2,Cells Within Spheroids (Method 2)
+0.500uM,3167.8172522019204,r2,Spheroids
+0.500uM,3839.363049031844,r3,Cells Within Spheroids (Method 1)
+0.500uM,3671.405996630363,r3,Cells Within Spheroids (Method 2)
+0.500uM,3410.7821683427596,r3,Spheroids
+1.000uM,6339.6771871609735,r1,Cells Within Spheroids (Method 1)
+1.000uM,6069.323598959676,r1,Cells Within Spheroids (Method 2)
+1.000uM,5513.1430124973895,r1,Spheroids
+1.000uM,6640.028483793312,r2,Cells Within Spheroids (Method 1)
+1.000uM,6518.42125587597,r2,Cells Within Spheroids (Method 2)
+1.000uM,5912.681366197616,r2,Spheroids
+1.000uM,7390.446083303565,r3,Cells Within Spheroids (Method 1)
+1.000uM,7097.294643779952,r3,Cells Within Spheroids (Method 2)
+1.000uM,6706.855527505204,r3,Spheroids
+2.000uM,6442.998266634684,r1,Cells Within Spheroids (Method 1)
+2.000uM,6325.132825241251,r1,Cells Within Spheroids (Method 2)
+2.000uM,5488.34034988297,r1,Spheroids
+2.000uM,6708.1169679688555,r2,Cells Within Spheroids (Method 1)
+2.000uM,6492.002789694367,r2,Cells Within Spheroids (Method 2)
+2.000uM,6033.185905967747,r2,Spheroids
+2.000uM,5986.416044273982,r3,Cells Within Spheroids (Method 1)
+2.000uM,6177.179906259012,r3,Cells Within Spheroids (Method 2)
+2.000uM,5615.645043362986,r3,Spheroids

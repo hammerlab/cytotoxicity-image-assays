@@ -1,0 +1,19 @@
+# Montage Macro
+# SYTOX, INCUCYTE, HOECHST, BF, SPHEROID, CELL, NUCLEUS
+run("Red");
+run("Next Slice [>]");
+run("Green");
+run("Next Slice [>]");
+run("Grays");
+run("Next Slice [>]");
+setMinAndMax(65535, 65535);
+run("Next Slice [>]");
+run("glasbey_inverted");
+setMinAndMax(0, 1000);
+run("Next Slice [>]");
+run("Magenta");
+setMinAndMax(0, 1);
+run("Next Slice [>]");
+run("Cyan");
+setMinAndMax(0, 1);
+run("Make Composite");

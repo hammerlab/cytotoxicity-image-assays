@@ -1,0 +1,65 @@
+# name: '20190719-co-culture'
+date: '2019-07-19 00:00:00'
+# environment:
+  # Paths should be set dynamically based on grid
+  # path_formats: 'get_default_path_formats("1_XY01_{tile:05d}_Z{z:03d}_CH{channel:d}.tif")'
+acquisition:
+  # CH1=Cy5 (SYTOX red for any dead cells)
+  # CH2=FITC (Incucyte green for T cells)
+  # CH3=Hoechst
+  # CH4=brightfield
+  per_cycle_channel_names: [Cy5, FITC, DAPI, BF]
+  channel_names: [SYTOX, ICYTE, HOECHST, BF]
+  emission_wavelengths: [670, 525, 425, 425]
+  axial_resolution: 20000.0 # 20um step
+  lateral_resolution: 377.442
+  magnification: 20
+  num_cycles: 1
+  numerical_aperture: 0.75
+  objective_type: air
+  region_names: [Region1]
+  region_height: 11
+  region_width: 3
+  # Typical settings:
+  # tile_height: 1008
+  # tile_overlap_x: 576
+  # tile_overlap_y: 432
+  # tile_width: 1344
+  # Original = 720 x 960 (half the usual settings above)
+  tile_height: 504
+  tile_overlap_y: 216
+  tile_width: 672
+  tile_overlap_x: 288
+  tiling_mode: snake
+  # num_z_planes: 0 # Must be specified per-experiment
+operator:
+  - extract:
+      name: best_z_segm
+      channels:
+        - proc_HOECHST
+        - proc_ICYTE
+        - proc_SYTOX
+        - proc_BF
+        - cyto_cell_boundary
+  - montage: {name: best_z_segm, extract_name: best_z_segm}
+analysis:
+  - aggregate_cytometry_statistics: {mode: best_z_plane}
+  - cellprofiler_quantification: {export_csv: true, export_db: true}
+processor:
+  args:
+    gpus: [0,1]
+    run_spectral_unmixing: false
+    run_deconvolution: false
+    run_best_focus: true
+    run_cytometry: true
+  tile_generator: {raw_file_type: keyence_mixed}
+  best_focus: {channel: HOECHST}
+  deconvolution: {n_iter: 10, scale_factor: .75, channels: [HOECHST, ICYTE, SYTOX]}
+  cytometry:
+    # Up-sample to standard image size
+    target_shape: [1008, 1344]
+    nuclei_channel_name: HOECHST
+    quantification_params:
+      nucleus_intensity: true
+      morphology_features: false
+      cell_graph: false

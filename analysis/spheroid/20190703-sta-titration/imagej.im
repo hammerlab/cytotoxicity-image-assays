@@ -1,0 +1,15 @@
+# Custom pipeline montage macro (SYTOX, BF, HOECHST, SPHEROID, CELL, NUCLEUS)
+run("Red");
+run("Next Slice [>]");
+run("Invert LUT");
+run("Next Slice [>]");
+run("Grays");
+setMinAndMax(65535, 65535);
+run("Next Slice [>]");
+run("glasbey_inverted");
+setMinAndMax(0, 1);
+run("Next Slice [>]");
+run("glasbey_inverted");
+setMinAndMax(0, 1);
+run("Next Slice [>]");
+run("Delete Slice", "delete=channel");

@@ -1,0 +1,12 @@
+name,dir
+00.0mT-np-0uMsta,untreated-noTcells-2
+02.5mT-np-0uMsta,025mioTcells-nopeptide
+05.0mT-np-0uMsta,5mioTcells-nopeptide
+10.0mT-np-0uMsta,10mioTcells-nopeptide
+20.0mT-np-0uMsta,20mioTcells-nopeptide
+02.5mT-wp-0uMsta,025mioTcells-peptide
+05.0mT-wp-0uMsta,5mioTcells-peptide
+10.0mT-wp-0uMsta,10mioTcells-peptide
+20.0mT-wp-0uMsta,20mioTcells-peptide
+{:04.1f}mT-wp-0uMsta,20-10-5mioTcells-peptide
+00.0mT-np-4uMsta,4uMsta-2
